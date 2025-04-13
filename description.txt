@@ -1,0 +1,3 @@
+A client-side mod that lets music continue to play when alt-tabbed. Music volume can also be lowered when out of focus (configurable).
+
+You can yell at me through Steam or Github if you experience issues or mod incompatibilities.

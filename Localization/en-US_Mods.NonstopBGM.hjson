@@ -1,0 +1,10 @@
+Configs: {
+	Config: {
+		VolumeRatio: {
+			Label: Unfocused Volume
+			Tooltip: Music volume will be multiplied by this value whenever the game is out of focus.
+		}
+
+		DisplayName: Client Config
+	}
+}

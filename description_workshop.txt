@@ -1,0 +1,5 @@
+# Nonstop BGM
+
+A client-side mod that lets music continue to play when alt-tabbed. Music volume can also be lowered when out of focus (configurable).
+
+You can yell at me through Steam or [url=github.com/Multiapples/NonstopBGM]Github[/url] if you experience issues or mod incompatibilities.

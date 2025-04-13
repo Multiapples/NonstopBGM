@@ -1,0 +1,4 @@
+displayName = Nonstop BGM
+author = Multiapples
+version = 1.0.0
+side = Client
